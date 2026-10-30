@@ -25,4 +25,4 @@ python lab4-secure-file-storage/server.py   # terminal 1
 python lab4-secure-file-storage/client.py   # terminal 2
 ```
 
-> Coursework repository, kept private. Please don't redistribute.
+> Built as UT Arlington coursework. If you're taking the course, please don't copy it for your own submission.
